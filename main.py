@@ -36,7 +36,7 @@ for file in glob(os.path.join(json_folder, "*.json")):
 df = pd.DataFrame(all_restaurants)
 
 # Save to Excel
-output_file = "FaizabadAyodhya.xlsx"
+output_file = input("Enter file name: ")+".xlsx"
 df.to_excel(output_file, index=False)
 
 print(f"Saved {len(df)} restaurants to {output_file}")
