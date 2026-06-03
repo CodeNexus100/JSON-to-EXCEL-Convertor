@@ -1,0 +1,1696 @@
+[
+  {
+    "id": 101,
+    "name": "Home Of Shakes & Cakes",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 558
+      }
+    },
+    "cuisines": [
+      "Bakery",
+      "Cake",
+      "Beverages"
+    ],
+    "address": "1/17/275, Opposite Girl's School, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919305278534",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 102,
+    "name": "Thali Point",
+    "ratings": {
+      "delivery": {
+        "score": 3.9,
+        "count": 225
+      }
+    },
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "New Colony, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917985688102",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 103,
+    "name": "Shane Awadh",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 2853
+      }
+    },
+    "cuisines": [
+      "Chinese",
+      "Fast Food",
+      "North Indian",
+      "Rolls",
+      "Indo-Chinese",
+      "Street Food"
+    ],
+    "address": "Near SBI ATM, Civil Line, Rikabganj Road, Lajpat Nagar, Near Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917007171907",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 104,
+    "name": "Sweets Of Madhurmaa",
+    "ratings": {
+      "delivery": {
+        "score": 3.8,
+        "count": 668
+      }
+    },
+    "cuisines": [
+      "Desserts",
+      "Bakery",
+      "Chinese",
+      "Fast Food",
+      "Mithai"
+    ],
+    "address": "Naka Bypass, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919628675020",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 105,
+    "name": null,
+    "ratings": {},
+    "cuisines": [],
+    "address": null,
+    "timing": null,
+    "cost_for_two": null,
+    "phone": null,
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 106,
+    "name": "Urban Chilli",
+    "ratings": {
+      "dining": {
+        "score": 3.9,
+        "count": 19
+      },
+      "delivery": {
+        "score": 4.2,
+        "count": 4687
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Continental",
+      "Chinese",
+      "BBQ"
+    ],
+    "address": "4101, Civil Lines, Near Sbi Main Branch, Faizabad, Uttar Pradesh, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "Not available for this place",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 107,
+    "name": "Bikanervala",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 1253
+      }
+    },
+    "cuisines": [
+      "Mithai",
+      "North Indian",
+      "South Indian",
+      "Chinese"
+    ],
+    "address": "Near Ram Katha Sangrahalay, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918699993671",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 108,
+    "name": "Champion's Party Land",
+    "ratings": {
+      "delivery": {
+        "score": 2.3,
+        "count": 3
+      }
+    },
+    "cuisines": [
+      "Bakery",
+      "Street Food",
+      "Hot dogs",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "Gate 1, Ayodhya Dham, Devkali, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Champion's Party Land\n/",
+    "cost_for_two": null,
+    "phone": "+919602515959",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 109,
+    "name": "Paratha Junction",
+    "ratings": {
+      "delivery": {
+        "score": 4.4,
+        "count": 148
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "1/7/275, Ram Nagar Colony, Zone 1, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917052510371",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 110,
+    "name": "La Milano Pizzeria",
+    "ratings": {
+      "delivery": {
+        "score": 4.1,
+        "count": 1804
+      }
+    },
+    "cuisines": [
+      "Pizza"
+    ],
+    "address": "Near Raibareli Bypass, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917905002969",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 111,
+    "name": "Champaran Mutton",
+    "ratings": {
+      "delivery": {
+        "score": 3.7,
+        "count": 377
+      }
+    },
+    "cuisines": [
+      "Bihari",
+      "Biryani"
+    ],
+    "address": "16/B, Chela Chavni Janaura Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Champaran Mutton\n/",
+    "cost_for_two": null,
+    "phone": "+919795988786",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 112,
+    "name": "Ram Rasoi",
+    "ratings": {
+      "delivery": {
+        "score": 3.7,
+        "count": 166
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Pizza",
+      "Fast Food",
+      "Street Food",
+      "Beverages"
+    ],
+    "address": "Bagwandash Ashram, Near Deen Bandhu Hospital, Janki mahal Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Ram Rasoi\n/",
+    "cost_for_two": null,
+    "phone": "+917007172690",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 113,
+    "name": "Punjabi Chaap Corner",
+    "ratings": {
+      "delivery": {
+        "score": 3.8,
+        "count": 1461
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "address": "1/13/388, Civil Line Rikabganj Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919415104733",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 114,
+    "name": "Madhurmaa Family Restaurant Sweets And Bakers",
+    "ratings": {
+      "dining": {
+        "score": 4.6,
+        "count": 22
+      },
+      "delivery": {
+        "score": 3.7,
+        "count": 1942
+      }
+    },
+    "cuisines": [
+      "Bakery",
+      "Burger",
+      "Chinese",
+      "Desserts",
+      "Fast Food",
+      "North Indian",
+      "Sandwich"
+    ],
+    "address": "Naka Bypass Chauraha, Ayodhya, Faizabad, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Madhurmaa Family Restaurant Sweets And Bakers\n/",
+    "cost_for_two": null,
+    "phone": "+919628675020",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 115,
+    "name": "Madhuban Sweets, Snacks & Bakery",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 235
+      }
+    },
+    "cuisines": [
+      "Mithai",
+      "Desserts",
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Bakery",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "Naveen Mandi Naka Ayodhya, Devkali, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917007149370",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 116,
+    "name": "Parathe Wala",
+    "ratings": {
+      "delivery": {
+        "score": 4.5,
+        "count": 1814
+      }
+    },
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "1/17/372, Ram Nagar Colony, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+916392460110",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 117,
+    "name": "Burger Singh - Big Punjabi Burgers",
+    "ratings": {
+      "delivery": {
+        "score": 4.1,
+        "count": 5386
+      }
+    },
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Momos",
+      "Beverages"
+    ],
+    "address": "Civil Lines, Near Tiny Tots School, Station Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919958718268",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 118,
+    "name": "Hungry Junction",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 1396
+      }
+    },
+    "cuisines": [
+      "Street Food",
+      "Chinese",
+      "Fast Food",
+      "Momos",
+      "Biryani",
+      "BBQ"
+    ],
+    "address": "Food Court Area, Station Road, Civil Lines Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918840331440",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 119,
+    "name": "Madhurmaa Food Point",
+    "ratings": {
+      "delivery": {
+        "score": 3.9,
+        "count": 142
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Biryani"
+    ],
+    "address": "Naka Bypass, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919628675020",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 120,
+    "name": "The Lassi Corner",
+    "ratings": {
+      "delivery": {
+        "score": 3.5,
+        "count": 381
+      }
+    },
+    "cuisines": [
+      "Pizza",
+      "Shake",
+      "Beverages",
+      "Ice Cream",
+      "Sandwich",
+      "Burger",
+      "Street Food"
+    ],
+    "address": "1/14/53, Hausila Nagar Colony, Maholi, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919354175155",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 121,
+    "name": "Good Day",
+    "ratings": {
+      "delivery": {
+        "score": 4.4,
+        "count": 975
+      }
+    },
+    "cuisines": [
+      "Bakery",
+      "Ice Cream",
+      "Desserts"
+    ],
+    "address": "7/9/301, Vridawan Garden, Naka Chungi, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917275583312",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 122,
+    "name": "Siyaji Palace & Restaurant",
+    "ratings": {
+      "delivery": {
+        "score": 3.8,
+        "count": 92
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Biryani",
+      "Sandwich",
+      "Street Food",
+      "Beverages"
+    ],
+    "address": "Ram Ghat Halt Railway Station, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917379136676",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 123,
+    "name": "Pinakaa The Cafe",
+    "ratings": {
+      "delivery": {
+        "score": 3.9,
+        "count": 213
+      }
+    },
+    "cuisines": [
+      "Fast Food",
+      "Chinese",
+      "Desserts",
+      "Beverages",
+      "Pizza",
+      "Burger",
+      "Italian"
+    ],
+    "address": "Shop 6, Civil Lines, Zone-1, Hausila Nagar, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917991850018",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 124,
+    "name": "Renu Paradise",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 14
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Beverages"
+    ],
+    "address": "MIG 78, Saket Puri Colony, Bank Of Baroda, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919616086161",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 125,
+    "name": "Bharat Ramji Restaurant",
+    "ratings": {
+      "delivery": {
+        "score": 3.9,
+        "count": 99
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Fast Food",
+      "Street Food",
+      "Salad",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "Shri Akhand Market, Naka Bypass, Airport Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Bharat Ramji Restaurant\n/",
+    "cost_for_two": null,
+    "phone": "+919519011106",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 126,
+    "name": "Lush Bites",
+    "ratings": {
+      "delivery": {
+        "score": 3.6,
+        "count": 290
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Pizza",
+      "Fast Food",
+      "Sandwich",
+      "Street Food"
+    ],
+    "address": "Mashiniya Paliya Shahbadi, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919565081607",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 127,
+    "name": "Sagar Sweets & Bakers",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 93
+      }
+    },
+    "cuisines": [
+      "Street Food",
+      "South Indian"
+    ],
+    "address": "0, 0 Sky Tower Rekabganj Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919140176990",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 128,
+    "name": "Kasoota",
+    "ratings": {
+      "delivery": {
+        "score": 3.9,
+        "count": 1283
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Pizza",
+      "Pasta",
+      "Sandwich",
+      "Fast Food",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "984, RTO Office, Gaddoopur, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917309424875",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 129,
+    "name": "Mr. Sandwich",
+    "ratings": {
+      "delivery": {
+        "score": 3.9,
+        "count": 256
+      }
+    },
+    "cuisines": [
+      "Sandwich",
+      "Pizza",
+      "Fast Food",
+      "Street Food",
+      "Waffle",
+      "Pancake",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "Gandhi Ashram Naka, Sultanpur Bypass Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919889881813",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 130,
+    "name": "Saral Sweets and Fast Food Corner",
+    "ratings": {
+      "dining": {
+        "score": 3.8,
+        "count": 34
+      },
+      "delivery": {
+        "score": 3.9,
+        "count": 4517
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Desserts",
+      "Chinese",
+      "Beverages"
+    ],
+    "address": "7/1/16, Purani Sabji Mandi Chowk Faizabad, Faizabad (Uttar Pradesh)",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "Not available for this place",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 131,
+    "name": "The Cake Project",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 26
+      }
+    },
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "1/17/271, Ramnagar Colony, Zone-1, Near Jhulelal Mandir, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919335355132",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 132,
+    "name": "Flavour Of Ayodhya",
+    "ratings": {
+      "delivery": {
+        "score": 4.2,
+        "count": 57
+      }
+    },
+    "cuisines": [
+      "Biryani",
+      "Fast Food"
+    ],
+    "address": "669, Ground Floor, Paharganj, Ghosiyana, Near Niket Saraswati Shishu Mandir, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917499440778",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 133,
+    "name": null,
+    "ratings": {},
+    "cuisines": [],
+    "address": null,
+    "timing": null,
+    "cost_for_two": null,
+    "phone": null,
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 134,
+    "name": "Raghav Bhog Kitchen",
+    "ratings": {
+      "delivery": {
+        "score": 2.8,
+        "count": 6
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Desserts"
+    ],
+    "address": "3/2/30, Machhuana Rajghat, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919026108699",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 135,
+    "name": "Quality Bakers And Fast Food",
+    "ratings": {
+      "delivery": {
+        "score": 3.8,
+        "count": 11
+      }
+    },
+    "cuisines": [
+      "Bakery",
+      "Fast Food"
+    ],
+    "address": "House 8/10/ 235, RJB Tower, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917275558880",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 136,
+    "name": "RM Home Kitchen",
+    "ratings": {
+      "delivery": {
+        "score": 4.5,
+        "count": 190
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "465/1, Katiya Mandir Gali, Dera Bibi, Meera Pur, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918318052513",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 137,
+    "name": "Shivaay Family Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Street Food",
+      "Beverages"
+    ],
+    "address": "4/2/39 Jalwanpura, Near Nikat Ksheereshwar Nath Mandir, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Shivaay Family Restaurant\n/",
+    "cost_for_two": null,
+    "phone": "+919621703717",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 138,
+    "name": "Biryani Adda",
+    "ratings": {
+      "delivery": {
+        "score": 3.8,
+        "count": 406
+      }
+    },
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "address": "House 16/B Chela Chavni Janaura Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919795988786",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 139,
+    "name": "Sukhan Restaurant",
+    "ratings": {
+      "dining": {
+        "score": 3.4,
+        "count": 4
+      },
+      "delivery": {
+        "score": 4.1,
+        "count": 67
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "address": "Gandhi Ashram Naka Bypass, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918112841369",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 140,
+    "name": "Rollarappaa - Cult Kathi Rolls",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 1688
+      }
+    },
+    "cuisines": [
+      "Rolls",
+      "Wraps",
+      "Shawarma",
+      "North Indian",
+      "Momos"
+    ],
+    "address": "Shop 4, Sabri Food Plaza, Adventure Park, Civil Line, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919794780013",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 141,
+    "name": "Paramount Pastries",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "3/1/45, Niyawan, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Paramount Pastries\n/",
+    "cost_for_two": null,
+    "phone": "+917317025744",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 142,
+    "name": "Lush Bites 3.0",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 11
+      }
+    },
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Chinese",
+      "Biryani"
+    ],
+    "address": "Masiniya Paliya, Shahbadi, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919565081607",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 143,
+    "name": "Kapoor Restaurant Tirupati Hotel",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 268
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "address": "1/13/388, Civil Lines, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919415104733",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 144,
+    "name": "Panchmukhi Restaurant Inn",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Pizza",
+      "Street Food",
+      "Fast Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "Hansapur, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919792044500",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 145,
+    "name": "Moonlight Bakery",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 28
+      }
+    },
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "1/17/150, Sant Satram Puri Mandir, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+916394132044",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 146,
+    "name": "Awadh Family Restaurant And Bhojanalay",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 9
+      }
+    },
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "Dantdhavan Kund, Jain Mandir Roard, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Awadh Family Restaurant And Bhojanalay\n/",
+    "cost_for_two": null,
+    "phone": "+919555866593",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 147,
+    "name": "Cafe Bariya",
+    "ratings": {
+      "delivery": {
+        "score": 3.6,
+        "count": 7
+      }
+    },
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Pizza",
+      "Burger",
+      "Sandwich",
+      "Pasta",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "3/20/5, 3rd Floor, Gaura Patti, Zone 2, Niyawan Chowk Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919936091835",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 148,
+    "name": "The Silver Spoon Fine Dine Restaurant",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 18
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "BBQ",
+      "Biryani",
+      "Pizza",
+      "Desserts",
+      "Coffee",
+      "Shake"
+    ],
+    "address": "Shiv Hights, Naka Chungi, Near Aditya Vision, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918799505050",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 149,
+    "name": "Happy Meal 120",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani"
+    ],
+    "address": "House 16/B, Chela Chavni, Wajirganj, Zone 3, Janaura Road, Near Punjab Dental Clinic, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919795988786",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 150,
+    "name": "Turmeric Tales",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 17
+      }
+    },
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "305, Ground Floor, Zone 1, Chungi Naka Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918737983259",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 151,
+    "name": "But, Better!",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 73
+      }
+    },
+    "cuisines": [
+      "Beverages",
+      "Coffee",
+      "Healthy Food",
+      "Italian"
+    ],
+    "address": "1814, Ram Nagar Colony, Zone 1, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+916388772752",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 152,
+    "name": "Asha Maa Restaurant",
+    "ratings": {
+      "delivery": {
+        "score": 3.0,
+        "count": 4
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Bihari"
+    ],
+    "address": "3230, Rajghat Machhuana Mohalla, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919026108699",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 153,
+    "name": "Hotel Vindhyawasini Palace",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 21
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "House 16/036, Vindhyawasani Guest House, Vikaspuram Colony, Sita Ram Narsingh Home, Civil Line, Zone-1, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918447697561",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 154,
+    "name": "Karamel Bakehouse",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 77
+      }
+    },
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "address": "2/4/37, Rekabganj, Zone 1, Near Mukut Complex, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Karamel Bakehouse\n/",
+    "cost_for_two": null,
+    "phone": "+919335275198",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 155,
+    "name": "Pet Puja",
+    "ratings": {
+      "delivery": {
+        "score": 3.3,
+        "count": 15
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Street Food"
+    ],
+    "address": "Civil Lines, Station Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917800892000",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 156,
+    "name": "Officers Kitchen",
+    "ratings": {
+      "delivery": {
+        "score": 2.1,
+        "count": 6
+      }
+    },
+    "cuisines": [],
+    "address": "1/14/53, Civil Line, Ashapur, Hausila Nagar, Near Brij Clinic, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919354175155",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 157,
+    "name": "My Chai Stories",
+    "ratings": {
+      "delivery": {
+        "score": 3.4,
+        "count": 132
+      }
+    },
+    "cuisines": [
+      "Tea",
+      "Beverages",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "1/14/53, Hausila Nagar Colony, Maholi, Near Jingle Bell School, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919354175155",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 158,
+    "name": "Hotel Sudarshan",
+    "ratings": {},
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "Janaura Bypass, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919070755755",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 159,
+    "name": "Sanrose Retreat Restaurant",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 5
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "address": "Near Mohabra Flyover Makkhapur, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917607650680",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 160,
+    "name": "Home Cooked Kitchen",
+    "ratings": {
+      "dining": {
+        "score": 2.9,
+        "count": 15
+      },
+      "delivery": {
+        "score": 2.7,
+        "count": 636
+      }
+    },
+    "cuisines": [
+      "Chinese",
+      "Desserts",
+      "North Indian",
+      "South Indian",
+      "Street Food"
+    ],
+    "address": "Lig 1005, Phase 2, Benigan Awadhpuri Colony, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917393086560",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 161,
+    "name": "Raj Sweets & Chaats",
+    "ratings": {
+      "delivery": {
+        "score": 3.9,
+        "count": 11
+      }
+    },
+    "cuisines": [
+      "Mithai"
+    ],
+    "address": "Gudri Bazaar Chauraha, Angoori Bagh, Rampath Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918299536990",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 162,
+    "name": "The Food Junction",
+    "ratings": {
+      "delivery": {
+        "score": 3.4,
+        "count": 10
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Fast Food"
+    ],
+    "address": "Machhuana Rajghat, Near Rajghat Park, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919026108699",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 163,
+    "name": "Gopi Kala's Swarn Rasoi",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 11
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Sandwich",
+      "Street Food",
+      "Momos",
+      "Shake"
+    ],
+    "address": "Manjhwa Gaddoo Pur, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919473726720",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 164,
+    "name": "Shri Ram Janki Restautrant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "address": "Sringarhatt, Shastri Nagar, Near Shri Ladli Prasad Mandir, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": "Shri Ram Janki Restautrant\n/",
+    "cost_for_two": null,
+    "phone": "+919889009881",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 165,
+    "name": "Angeethi Chef's Special",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Biryani"
+    ],
+    "address": "Devkali, Near Ram Janmbhumi Gate 1, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917665070010",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 166,
+    "name": "Desi Rasoi",
+    "ratings": {},
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "State Bank Colony, Zone-2, Near Kumar Clinic, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919415366703",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 167,
+    "name": "The Wave Cafe",
+    "ratings": {
+      "delivery": {
+        "score": 3.8,
+        "count": 13
+      }
+    },
+    "cuisines": [
+      "Chinese",
+      "Pizza",
+      "Burger",
+      "Fast Food",
+      "Desserts",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "5/3/14A, Amanigang, Zone 2, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919005786009",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 168,
+    "name": "Pizza Adda",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 23
+      }
+    },
+    "cuisines": [
+      "Pizza",
+      "Sandwich",
+      "Italian",
+      "Fast Food"
+    ],
+    "address": "Krishna Palace, Civil Line, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919555902861",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 169,
+    "name": "Naashto",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Rolls",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "Devkali, Near Ram Janmbhumi Gate 1, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917665070010",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 170,
+    "name": "Healthy Salad By Saima",
+    "ratings": {
+      "delivery": {
+        "score": 4.4,
+        "count": 111
+      }
+    },
+    "cuisines": [
+      "Salad"
+    ],
+    "address": "House 16/B, Janaura Road, Near Punjab Dental Clinic, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919795988786",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 171,
+    "name": "Baskin Robbins Happyness Shakes",
+    "ratings": {},
+    "cuisines": [
+      "Shake",
+      "Ice Cream",
+      "Desserts"
+    ],
+    "address": "Banvirpur, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919598831059",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 172,
+    "name": "Pizza Box 2.0",
+    "ratings": {
+      "dining": {
+        "score": 3.6,
+        "count": 4
+      },
+      "delivery": {
+        "score": 3.6,
+        "count": 447
+      }
+    },
+    "cuisines": [
+      "Pizza",
+      "Italian",
+      "Continental",
+      "Chinese",
+      "Burger"
+    ],
+    "address": "Lal Kurti, Opposite Press Club, Cantt Road, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919473507629",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 173,
+    "name": "Ghar Ka Swad",
+    "ratings": {
+      "delivery": {
+        "score": 4.3,
+        "count": 43
+      }
+    },
+    "cuisines": [
+      "Bihari",
+      "North Indian"
+    ],
+    "address": "17/2/5, Mugalpura Jhunki Ghat, Near Rasmond Kunj, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918318600672",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 174,
+    "name": "Cloud Kitchen",
+    "ratings": {},
+    "cuisines": [
+      "Bakery",
+      "Pizza",
+      "Biryani",
+      "Burger",
+      "Chinese",
+      "Sandwich",
+      "Fast Food",
+      "Shake"
+    ],
+    "address": "3/1/62, Ground Floor, Niyawan Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917800731073",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 175,
+    "name": "Bihar Ka Swad",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 5
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Fast Food",
+      "Burger"
+    ],
+    "address": "Krishna ITI, Pure Husen, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918005094178",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 176,
+    "name": "Shree Hanuman Chola Bhatura & Chaats",
+    "ratings": {
+      "delivery": {
+        "score": 4.0,
+        "count": 4
+      }
+    },
+    "cuisines": [
+      "North Indian",
+      "Street Food",
+      "Beverages"
+    ],
+    "address": "130 Angoori bagh colony ayodhya , Rampath road ayodhya , Sunita health care hospital , Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919305960919",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 177,
+    "name": "Sippys",
+    "ratings": {},
+    "cuisines": [
+      "Coffee",
+      "Beverages"
+    ],
+    "address": "Lal Nalkoop Colony, Opposite Krishna Palace, Faizabad-Ayodhya Locality, Faizabad-Ayodhya",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919172996900",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  }
+]
